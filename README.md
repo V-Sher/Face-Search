@@ -4,4 +4,4 @@ Please read the associated blog article to get a better understanding of the cod
 Create a face identification system using Scikit Learn
 
 # Dataset
-Unzip the Yale dataset inside the `data` directory.
+Unzip the [Yalefaces](http://vision.ucsd.edu/content/yale-face-database) dataset inside the `data` directory.
